@@ -43,6 +43,6 @@
     "children": [
       "sku-selector",
       "product-quantity"
-    ]
+    ] 
   }
 }
