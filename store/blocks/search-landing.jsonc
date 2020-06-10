@@ -12,7 +12,7 @@
     }
   },
   "search-result-layout.customQuery": {
-    "blocks": [
+    "blocks": [ 
         "search-result-layout.desktop"
     ],
     "props": {
