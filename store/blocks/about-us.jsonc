@@ -61,7 +61,7 @@
         "defaultActiveTab": true
       }
     },
-    "tab-list.item#home2": {
+    "tab-list.item#home2": { 
       "props": {
         "tabId": "electronics",
         "label": "Electronics"
